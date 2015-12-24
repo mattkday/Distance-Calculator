@@ -12,11 +12,7 @@
   font-weight: 300;
 }
 
-input {
-	color: black;
-}
-
-button {
+input, button {
 	color: black;
 }
 
